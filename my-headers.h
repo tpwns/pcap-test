@@ -1,3 +1,6 @@
+#include <pcap.h>
+
+
 /*
  *  Ethernet header
  */
